@@ -1,1 +1,1 @@
-Yet another readme
+a script that prints the working path name
